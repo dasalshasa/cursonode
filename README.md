@@ -1,2 +1,2 @@
 # cursonode
-curso básico node
+curso básico node y git
